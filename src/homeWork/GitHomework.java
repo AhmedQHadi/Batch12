@@ -18,5 +18,10 @@ public class GitHomework {
 		System.out.println(X);
 }
 	
+	public  void Ahmed (String A, String H ) {
+		System.out.println(A);
+		System.out.println(H);	
+}
+	
 	
 }
