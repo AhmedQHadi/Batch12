@@ -30,5 +30,7 @@ public class GitHomework {
 		System.out.println(H);		
 	
 }
-	
+	public  void Lelia (String L, String H ) {
+		System.out.println(L);
+		System.out.println(H);	
 }
