@@ -13,4 +13,10 @@ public class GitHomework {
 		System.out.println(a+b);
 
 }
+	public static void scrumTeam (String N, String X ) {
+		System.out.println(N);
+		System.out.println(X);
+}
+	
+	
 }
