@@ -2,7 +2,7 @@ package homeWork;
 
 public class GitHomework {
 	public static void main(String[] args) {
-	System.out.println(a+b);
+	// System.out.println(a+b);
 		int age = 12;
 		String name= "John";
 		// This is coming from Github 
@@ -26,7 +26,9 @@ public class GitHomework {
 		System.out.println(H);	
 }
 	public  void Zahraa (String Z, String H ) {
-		System.out.println(A);
+		System.out.println(Z);
 		System.out.println(H);		
+	
+}
 	
 }
