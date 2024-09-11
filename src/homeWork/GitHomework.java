@@ -25,6 +25,8 @@ public class GitHomework {
 		System.out.println(A);
 		System.out.println(H);	
 }
-	
+	public  void Zahraa (String Z, String H ) {
+		System.out.println(A);
+		System.out.println(H);		
 	
 }
