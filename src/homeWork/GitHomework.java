@@ -21,5 +21,5 @@ public static void main(String[] args) {
 	public static void lolo (String l, int q) {
 		System.out.println(l+q);
 }	
-
+// we added this by GitHub
 }
